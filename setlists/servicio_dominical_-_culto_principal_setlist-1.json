@@ -1,0 +1,43 @@
+{
+  "id": "setlist-1",
+  "name": "Servicio Dominical - Culto Principal",
+  "title": "Servicio Dominical - Culto Principal",
+  "date": "2026-11-08",
+  "serviceType": "Culto Dominical",
+  "worshipLeader": "David Morales",
+  "notes": "Comenzar con júbilo en \"Alaba a Dios\", luego enlazar de forma fluida a \"Cuán Grande es Dios\" en G. Momento íntimo de comunión con \"La Bondad de Dios\".",
+  "songs": [
+    {
+      "songId": "song-9",
+      "order": 1,
+      "keyOverride": "C",
+      "customNotes": "Apertura energética, invitar a la congregación a ponerse de pie"
+    },
+    {
+      "songId": "song-2",
+      "order": 2,
+      "keyOverride": "G",
+      "customNotes": "Transición directa con piano, mantener tempo"
+    },
+    {
+      "songId": "song-1",
+      "order": 3,
+      "keyOverride": "G",
+      "customNotes": "Bajar intensidad, momento de gratitud congregacional"
+    },
+    {
+      "songId": "song-6",
+      "order": 4,
+      "keyOverride": "D",
+      "customNotes": "Canción previa a la predicación de la Palabra"
+    }
+  ],
+  "songIds": [
+    "song-9",
+    "song-2",
+    "song-1",
+    "song-6"
+  ],
+  "createdAt": "2026-11-12T03:15:30.004Z",
+  "updatedAt": "2026-11-12T03:15:30.004Z"
+}
