@@ -1,0 +1,44 @@
+{
+  "id": "setlist-2",
+  "name": "Noche de Alabanza y Adoración Íntima",
+  "title": "Noche de Alabanza y Adoración Íntima",
+  "date": "2026-11-13",
+  "serviceType": "Noche de Alabanza",
+  "worshipLeader": "Sara Mendoza",
+  "notes": "Setlist acústico e ininterrumpido. Enfocado en oración, ministración y canto congregacional.",
+  "songs": [
+    {
+      "songId": "song-8",
+      "order": 1,
+      "keyOverride": "G",
+      "customNotes": "Comenzar a capella con coro femenino"
+    },
+    {
+      "songId": "song-3",
+      "order": 2,
+      "keyOverride": "E",
+      "customNotes": "Solo acústica y teclado"
+    },
+    {
+      "songId": "song-4",
+      "order": 3,
+      "keyOverride": "A",
+      "keyOverrideOriginal": "B",
+      "customNotes": "Bajamos 2 semitonos a A para tono vocal de Sara"
+    },
+    {
+      "songId": "song-10",
+      "order": 4,
+      "keyOverride": "A",
+      "customNotes": "Cierre solemne"
+    }
+  ],
+  "songIds": [
+    "song-8",
+    "song-3",
+    "song-4",
+    "song-10"
+  ],
+  "createdAt": "2026-11-12T03:15:30.004Z",
+  "updatedAt": "2026-11-12T03:15:30.004Z"
+}
