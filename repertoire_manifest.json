@@ -1,0 +1,58 @@
+{
+  "exportedAt": "2026-11-15T06:13:23.991Z",
+  "version": "1.0",
+  "app": "Armonía Live",
+  "totalSongs": 3,
+  "totalSetlists": 0,
+  "songs": [
+    {
+      "id": "song-1794723068959",
+      "title": "Glorioso",
+      "artist": "Jb Ptman",
+      "originalKey": "B",
+      "bpm": 146,
+      "timeSignature": "4/4",
+      "capo": 0,
+      "tags": [
+        "Adoración"
+      ],
+      "notes": "",
+      "content": "B\n[Chorus]\nB F# G#m E\nGlo - ri - oso, lo cantamos.\nB F# G#m E\nGlo - ri - oso, lo gritamos,\nB F#\nCristo, te alabaré.\nG#m E\nTu nombre exaltaré,\nB F# E\nGlo - ri - oso. Nadie como tu!\n\n[Instrumental]\nE G#m E B F#\n\n[Verse]\nE B F# G#m\nTu reinarás por siempre y siempre\nE B F#\nTu vivirás.\nE B F# G#m\nTu amor será por siempre y siempre.\nE B F#\nNo cambiarás.\n\n[Pre-Chorus]\nE B\nGritaré, gritaré gritaré porque bueno es DIOS\nF# G#m\nCantaré cantaré bueno es el señor.\nE B F#\nDeclararé nadie como tú.\n\n[Chorus]\nB F# G#m E\nGlo - ri - oso, lo cantamos.\nB F# G#m E\nGlo - ri - oso, lo gritamos,\nB F#\nCristo, te alabaré.\nG#m E\nTu nombre exaltaré,\nB F# E\nGlo - ri - oso. Nadie como tu!\n\n[Bridge]\nB D# G#m E\nTu luz brillará todos verán\nNo hay nadie como tú\n\n[Tag]\nB\nNadie como tu!\nE G#m E B\nOh... Oh... Oh... nadie como tu!\nE G#m E F#\nOh... Oh... Oh... no hay nadie como tu!",
+      "isFavorite": false,
+      "updatedAt": "2026-11-15T06:11:08.959Z"
+    },
+    {
+      "id": "song_imp_1794723107917_0",
+      "title": "Hossana",
+      "artist": "Marcos Barrientos",
+      "originalKey": "D",
+      "key": "D",
+      "bpm": 144,
+      "timeSignature": "4/4",
+      "capo": 0,
+      "tags": [],
+      "notes": "",
+      "content": "[Intro]\n[Bm] [A] [F#m] [G]\n[Verso 1]\n[Bm]Levantamos u[A]n clamor\n[F#m]Por sanidad y re[G]dención\n[Bm]Muéstranos lo que[A] tú ves\n[F#m]Los secretos de tu [G]corazón\n[Bm] Un pueblo unido [A]pide hoy\n[F#m]Tu libertad y sa[G]lvación\n[Bm]Ármanos con tu[A] valor\n[F#m]Lo que deseamos es revo[G]lución\n[Pre-Coro]\nQue el cielo se parta en [A]dos\nInúndanos[G]\nEn el desierto broten rí[A]os\nVida sopla hoy[Bm]\n[Coro]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\n[Bm] - - - - - -[F#m] - - [Bm]   - - - -[G]",
+      "isFavorite": false,
+      "createdAt": "2026-11-15T06:11:47.917Z",
+      "updatedAt": "2026-11-15T06:11:47.917Z"
+    },
+    {
+      "id": "song_imp_1794723125479_0",
+      "title": "Creo en Ti",
+      "artist": "Julio Melgar",
+      "originalKey": "D",
+      "key": "D",
+      "bpm": 140,
+      "timeSignature": "4/4",
+      "capo": 0,
+      "tags": [],
+      "notes": "",
+      "content": "[Intro]\n[G] [A] [D/F#] [G] [G] [A] [Bm7] X2\n[Verso 1]\n [Bm]Quiero levantar a ti mis [G]manos\nMaravill[D]oso Jesús, milagro[A]so Señor\nLle[Bm]na este lugar de tu pre[G]sencia\nY haz descend[D]er tu poder, a los que est[A]amos aquí\n\n\n[Pre-Coro]\nCreo en [Bm7]ti, [A]Jesú[G]s\nY en lo que har[Bm]ás [A]en [G]mí\nCreo en [Bm7]ti, [A]Jesú[G]s\nY en lo que har[Bm]ás [A]en [G]mí\nEn [D]mí, en [A]mí\n\n\n[Coro]\nRecibe [Bm]toda la gloria\nRecibe [G]toda la honra\nPreci[D]oso Hijo de Di[A]os\nRecibe [Bm]toda la gloria\nRecibe [G]toda la honra\nPreci[D]oso Hijo de Di[A]os",
+      "isFavorite": false,
+      "createdAt": "2026-11-15T06:12:05.479Z",
+      "updatedAt": "2026-11-15T06:12:05.479Z"
+    }
+  ],
+  "setlists": []
+}
