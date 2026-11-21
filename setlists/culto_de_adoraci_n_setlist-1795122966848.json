@@ -1,0 +1,33 @@
+{
+  "id": "setlist-1795122966848",
+  "name": "Culto de Adoración",
+  "title": "Culto de Adoración",
+  "date": "2026-11-19",
+  "serviceType": "Culto Dominical",
+  "worshipLeader": "Director de Alabanza",
+  "status": "borrador",
+  "description": "",
+  "notes": "",
+  "songs": [
+    {
+      "songId": "song_imp_1795113634805_0",
+      "order": 1,
+      "keyOverride": "C",
+      "bpmOverride": 144,
+      "durationSeconds": 240
+    },
+    {
+      "songId": "song_imp_1795139321240_0",
+      "order": 2,
+      "keyOverride": "D",
+      "bpmOverride": 140,
+      "durationSeconds": 240
+    }
+  ],
+  "songIds": [
+    "song_imp_1795113634805_0",
+    "song_imp_1795139321240_0"
+  ],
+  "createdAt": "2026-11-19T21:16:06.848Z",
+  "updatedAt": 1795232766005
+}
