@@ -1,9 +1,9 @@
 {
-  "exportedAt": "2026-11-15T06:13:23.991Z",
+  "exportedAt": "2026-11-21T04:45:33.835Z",
   "version": "1.0",
-  "app": "Armonía Live",
-  "totalSongs": 3,
-  "totalSetlists": 0,
+  "app": "CoolMusic",
+  "totalSongs": 4,
+  "totalSetlists": 1,
   "songs": [
     {
       "id": "song-1794723068959",
@@ -14,31 +14,46 @@
       "timeSignature": "4/4",
       "capo": 0,
       "tags": [
-        "Adoración"
+        "Júbilo"
       ],
       "notes": "",
       "content": "B\n[Chorus]\nB F# G#m E\nGlo - ri - oso, lo cantamos.\nB F# G#m E\nGlo - ri - oso, lo gritamos,\nB F#\nCristo, te alabaré.\nG#m E\nTu nombre exaltaré,\nB F# E\nGlo - ri - oso. Nadie como tu!\n\n[Instrumental]\nE G#m E B F#\n\n[Verse]\nE B F# G#m\nTu reinarás por siempre y siempre\nE B F#\nTu vivirás.\nE B F# G#m\nTu amor será por siempre y siempre.\nE B F#\nNo cambiarás.\n\n[Pre-Chorus]\nE B\nGritaré, gritaré gritaré porque bueno es DIOS\nF# G#m\nCantaré cantaré bueno es el señor.\nE B F#\nDeclararé nadie como tú.\n\n[Chorus]\nB F# G#m E\nGlo - ri - oso, lo cantamos.\nB F# G#m E\nGlo - ri - oso, lo gritamos,\nB F#\nCristo, te alabaré.\nG#m E\nTu nombre exaltaré,\nB F# E\nGlo - ri - oso. Nadie como tu!\n\n[Bridge]\nB D# G#m E\nTu luz brillará todos verán\nNo hay nadie como tú\n\n[Tag]\nB\nNadie como tu!\nE G#m E B\nOh... Oh... Oh... nadie como tu!\nE G#m E F#\nOh... Oh... Oh... no hay nadie como tu!",
       "isFavorite": false,
-      "updatedAt": "2026-11-15T06:11:08.959Z"
+      "updatedAt": "2026-11-21T04:00:17.628Z"
     },
     {
-      "id": "song_imp_1794723107917_0",
+      "id": "song-1795231648304",
+      "title": "Quiero Conocer a Jesús (Yeshua)",
+      "artist": "Generación 12",
+      "originalKey": "G",
+      "bpm": 144,
+      "timeSignature": "4/4",
+      "capo": 0,
+      "tags": [
+        "Adoración",
+        "Alabanza"
+      ],
+      "notes": "",
+      "content": "[Intro]\nC D Em G/B x2\n\n[Verso 1]\n     C                     D\nMi orgullo me sacó del jardín\n        Em                  G/B\nSu humildad puso el jardín en mí\n          C\nY si vendiera todo lo que tengo\n  D                          Em  G/B\nA cambio de su amor, yo fallaría\n\n[Pre-Coro]\n           C\nPorque su amor no se compra\nD\nNi se merece\n    Em\nSu amor es un regalo\n   G/B\nDe gracia se recibe     \n\n           C\nPorque su amor no se compra\nD\nNi se merece\n    Em\nSu amor es un regalo\n   G/B\nDe gracia se recibe      \n\n[Coro]\nC                  D\nQuiero conocer a Jesús\n   Em                G/B\nYo quiero conocer a Jesús\nC                  D\nQuiero conocer a Jesús\nEm                G/B\nQuiero conocer a Jesús\n\n[Verso 2]\n     C                     D\nMi orgullo me sacó del jardín\n        Em                  G/B\nSu humildad puso el jardín en mí\n          C\nY si vendiera todo lo que tengo\n  D                          Em  G/B\nA cambio de su amor, yo fallaría\n\n[Pre-Coro]\n           C\nPorque su amor no se compra\nD\nNi se merece\n    Em\nSu amor es un regalo\n   G/B\nDe gracia se recibe     \n\n           C\nPorque su amor no se compra\nD\nNi se merece\n    Em\nSu amor es un regalo\n   G/B\nDe gracia se recibe      \n\n[Coro]\nC                  D\nQuiero conocer a Jesús\n   Em                G/B\nYo quiero conocer a Jesús\nC                  D\nQuiero conocer a Jesús\nEm                G/B\nQuiero conocer a Jesús\n\nC                  D\nQuiero conocer a Jesús\n   Em                G/B\nYo quiero conocer a Jesús\nC                  D\nQuiero conocer a Jesús\nEm                G/B\nQuiero conocer a Jesús\n\n[Solo]\nC C  D Em   G/B x2\n\n[Puente] x4\nC      D Em    G/B\nYeshua\nC      D Em    G/B\nYeshua\nC      D Em    G/B\nYeshua \nC      D Em    G/B\nYeshua\n\n[Puente]\n    C              Em\nMi amado es el más bello\n         G          G/B\nEntre millares y millares\n    C              Em\nMi amado es el más bello\n         G          G/B\nEntre millares y millares \n\n    C              Em\nMi amado es el más bello\n         G          G/B\nEntre millares y millares\n    C              Em\nMi amado es el más bello\n         G          G/B\nEntre millares y millares \n\n[Puente] x4\nC      D Em    G/B\nYeshua\nC      D Em    G/B\nYeshua\nC      D Em    G/B\nYeshua \nC      D Em    G/B\nYeshua",
+      "isFavorite": false,
+      "updatedAt": 1795232766005
+    },
+    {
+      "id": "song_imp_1795113634805_0",
       "title": "Hossana",
       "artist": "Marcos Barrientos",
       "originalKey": "D",
-      "key": "D",
       "bpm": 144,
       "timeSignature": "4/4",
       "capo": 0,
       "tags": [],
       "notes": "",
-      "content": "[Intro]\n[Bm] [A] [F#m] [G]\n[Verso 1]\n[Bm]Levantamos u[A]n clamor\n[F#m]Por sanidad y re[G]dención\n[Bm]Muéstranos lo que[A] tú ves\n[F#m]Los secretos de tu [G]corazón\n[Bm] Un pueblo unido [A]pide hoy\n[F#m]Tu libertad y sa[G]lvación\n[Bm]Ármanos con tu[A] valor\n[F#m]Lo que deseamos es revo[G]lución\n[Pre-Coro]\nQue el cielo se parta en [A]dos\nInúndanos[G]\nEn el desierto broten rí[A]os\nVida sopla hoy[Bm]\n[Coro]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\n[Bm] - - - - - -[F#m] - - [Bm]   - - - -[G]",
+      "content": "[Intro]\n[Bm] [A] [F#m] [G]\n\n[Verso 1]\n[Bm]Levantamos u[A]n clamor\n[F#m]Por sanidad y re[G]dención\n[Bm]Muéstranos lo que[A] tú ves\n[F#m]Los secretos de tu [G]corazón\n[Bm]Un pueblo unido [A]pide hoy\n[F#m]Tu libertad y sa[G]lvación\n[Bm]Ármanos con tu[A] valor\n[F#m]Lo que deseamos es revo[G]lución\n\n[Pre-Coro]\nQue el cielo se parta en [A]dos\nInúndanos[G]\nEn el desierto broten rí[A]os\nVida sopla hoy[Bm]\n\n[Coro]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\nHosanna al rey de salvaci[D]ón\nHosanna al Dios Altísi[Em]mo\nHosanna Je[G]sucristo, Je[A]sucristo es rey[Bm]\n[Bm] - - - - - -[F#m] - - [Bm]   - - - -[G]",
       "isFavorite": false,
-      "createdAt": "2026-11-15T06:11:47.917Z",
-      "updatedAt": "2026-11-15T06:11:47.917Z"
+      "updatedAt": 1795232766005
     },
     {
-      "id": "song_imp_1794723125479_0",
+      "id": "song_imp_1795139321240_0",
       "title": "Creo en Ti",
       "artist": "Julio Melgar",
       "originalKey": "D",
@@ -50,9 +65,43 @@
       "notes": "",
       "content": "[Intro]\n[G] [A] [D/F#] [G] [G] [A] [Bm7] X2\n[Verso 1]\n [Bm]Quiero levantar a ti mis [G]manos\nMaravill[D]oso Jesús, milagro[A]so Señor\nLle[Bm]na este lugar de tu pre[G]sencia\nY haz descend[D]er tu poder, a los que est[A]amos aquí\n\n\n[Pre-Coro]\nCreo en [Bm7]ti, [A]Jesú[G]s\nY en lo que har[Bm]ás [A]en [G]mí\nCreo en [Bm7]ti, [A]Jesú[G]s\nY en lo que har[Bm]ás [A]en [G]mí\nEn [D]mí, en [A]mí\n\n\n[Coro]\nRecibe [Bm]toda la gloria\nRecibe [G]toda la honra\nPreci[D]oso Hijo de Di[A]os\nRecibe [Bm]toda la gloria\nRecibe [G]toda la honra\nPreci[D]oso Hijo de Di[A]os",
       "isFavorite": false,
-      "createdAt": "2026-11-15T06:12:05.479Z",
-      "updatedAt": "2026-11-15T06:12:05.479Z"
+      "createdAt": "2026-11-20T01:48:41.240Z",
+      "updatedAt": 1795232766005
     }
   ],
-  "setlists": []
+  "setlists": [
+    {
+      "id": "setlist-1795122966848",
+      "name": "Culto de Adoración",
+      "title": "Culto de Adoración",
+      "date": "2026-11-19",
+      "serviceType": "Culto Dominical",
+      "worshipLeader": "Director de Alabanza",
+      "status": "borrador",
+      "description": "",
+      "notes": "",
+      "songs": [
+        {
+          "songId": "song_imp_1795113634805_0",
+          "order": 1,
+          "keyOverride": "C",
+          "bpmOverride": 144,
+          "durationSeconds": 240
+        },
+        {
+          "songId": "song_imp_1795139321240_0",
+          "order": 2,
+          "keyOverride": "D",
+          "bpmOverride": 140,
+          "durationSeconds": 240
+        }
+      ],
+      "songIds": [
+        "song_imp_1795113634805_0",
+        "song_imp_1795139321240_0"
+      ],
+      "createdAt": "2026-11-19T21:16:06.848Z",
+      "updatedAt": 1795232766005
+    }
+  ]
 }
